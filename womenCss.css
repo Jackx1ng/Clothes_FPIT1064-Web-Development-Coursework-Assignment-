@@ -1,0 +1,403 @@
+.background{
+    max-width: 7680px;
+    min-width: 1600px;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(image/women1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.title{
+    width: 100%;
+    margin-left: 10%;
+    padding-top: 50%;
+}
+
+h1.title{
+    font-family: montserrat;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+h2.title{
+    font-family: montserrat;
+    font-size: 30px;
+    font-weight: normal;
+    padding-top: 20px;
+} 
+
+.women1{  
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.women2{
+    max-width: 7680px;
+    min-width: 1600px;
+    background:rgba(63, 71, 141, 0.6);
+    height: 700px;
+    position: relative;
+}
+
+div.polaroid {
+    width: 400px;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    background-color: white;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  }
+
+.womenText{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.womenTextTitle{
+    color: #ffffff;
+    position: absolute;
+    font-size: 50px;
+    left: 17%;
+    top: 15%;
+}
+
+.quotes{
+    color: #ffffff;
+    position: absolute;
+    font-size: 30px;
+    left: 10%;
+    top: 35%;
+}
+
+.arriveDate{
+    color: #ffffff;
+    position: absolute;
+    font-size: 30px;
+    left: 17%;
+    top: 60%;
+}
+
+.women3{
+    max-width: 7680px;
+    min-width: 1600px;
+    position: relative;
+    width: 100%;
+    height: 1000px;
+
+}
+
+.womenTextTitle2{
+    color: #ffffff;
+    font-family: "Futura";
+    position: absolute;
+    font-size: 35px;
+    left: 41%;
+    top: 5%;
+}
+
+.womenText2{
+    color: rgb(180, 216, 233);
+    font-family: "Lucida Calligraphy";
+    position: absolute;
+    font-size: 30px;
+    left: 42%;
+    top: 14%;
+}
+
+.video1{
+    position: absolute;
+    left:30%;
+    top: 28%;
+}
+
+.womenText3{
+    color: rgb(180, 216, 233);
+    font-family: "Lucida Calligraphy";
+    position: absolute;
+    font-size: 30px;
+    left: 39%;
+    top: 85%;
+}
+
+.designContainer{
+    max-width: 7320px;
+    min-width: 1000px;
+    height: 2065px;
+    background-color: rgb(228, 225, 225);
+    padding-left: 600px;
+}
+
+.sortbar{
+    height: 1865px;
+    width: 500px;
+    background-color: rgba(121, 127, 177, 0.322);
+    float: left;
+    padding-top: 100px;
+}
+
+.sortbar strong{
+    margin-left: 220px;
+    font-size: 30px;
+}
+
+.sortbar a{
+    margin-left: 220px;
+    font-size: 20px;
+    padding-left: 40px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+}
+
+.sortbar a:hover{
+    color: rgb(230, 214, 214);
+    transition: 0.5s;
+}
+
+.designInfo{
+    padding: 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.size{
+    color: #ababab;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 80%;
+}
+
+#tshirt{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design1{
+    margin-top: 10px;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design1:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design1 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design2{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design2:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design2 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design3{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px;
+    margin-top: -304px;
+}
+
+.design3:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design3 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#fleece{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design4{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design4:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design4 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design5{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design5:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design5 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design6{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design6:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design6 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#blouses{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design7{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design7:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design7 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design8{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design8:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design8 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design9{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design9:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design9 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#sweater{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design10{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design10:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design10 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design11{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design11:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design11 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design12{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design12:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design12 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}

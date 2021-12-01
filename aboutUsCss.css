@@ -1,0 +1,72 @@
+.aboutUs{
+    min-width: 1600px;
+    width: 100%;
+    height: 1300px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.048),rgba(0, 0, 0, 0.301)), url(image/home4.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content{
+    padding-top: 10%;
+    margin-left: 2% ;
+    height: 500px;
+    width: 700px;
+}
+
+.box{
+    position: absolute;
+    height: 1300px;
+    width: 800px;
+    background-color: white;
+    opacity: .120;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.firstLetter{
+    color: rgb(183, 138, 224);
+    font-weight: bold;
+}
+
+.p1{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    text-align:justify;
+    line-height: 50px;
+    padding-top: 20px;
+}
+
+.ourteam{
+    margin-top: -28%;
+    margin-left: 50%;
+}
+
+.ourteam h2{
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.ourteam img{
+    filter: brightness(85%)
+}
+
+.moreaboutus{
+    margin-top: 30px;
+    margin-left: 50%;
+
+}
+
+.moreaboutus h2{
+    color: white;
+    font-size: 40px;
+    padding-bottom: 10px;
+}

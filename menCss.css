@@ -1,0 +1,359 @@
+.background{
+    max-width: 7680px;
+    min-width: 1600px;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(image/men1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.men1{  
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.title{
+    margin-left: 200px;
+}
+
+h1.title{
+    font-family: montserrat;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+h2.title{
+    font-family: montserrat;
+    font-size: 30px;
+    font-weight: normal;
+    padding-top: 20px;
+} 
+
+.men3{
+    max-width: 7680px;
+    min-width: 1600px;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.menTextTitle2{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.menText2{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    color: white;
+    font-size: 30px;
+}
+
+.magazine{
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    color: rgb(157, 152, 223);
+    font-size: 25px;
+}
+
+.reward{
+    position: absolute;
+    top: 80%;
+    left: 8% ;
+}
+
+.reward2{
+    position: absolute;
+    top: 80%;
+    left: 25% ;
+}
+
+.designContainer{
+    max-width: 7320px;
+    min-width: 1000px;
+    height: 2065px;
+    margin-top: -100px;
+    background-color: rgb(228, 225, 225);
+    padding-left: 600px;
+}
+
+.sortbar{
+    height: 1865px;
+    width: 500px;
+    background-color: rgba(121, 127, 177, 0.322);
+    float: left;
+    padding-top: 100px;
+}
+
+.sortbar strong{
+    margin-left: 220px;
+    font-size: 30px;
+}
+
+.sortbar a{
+    margin-left: 220px;
+    font-size: 20px;
+    padding-left: 40px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+}
+
+.sortbar a:hover{
+    color: rgb(230, 214, 214);
+    transition: 0.5s;
+}
+
+.designInfo{
+    padding: 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.size{
+    color: #ababab;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 80%;
+}
+
+#formal{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design1{
+    margin-top: 10px;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design1:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design1 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design2{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design2:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design2 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design3{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px;
+    margin-top: -304px;
+}
+
+.design3:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design3 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#casual{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design4{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design4:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design4 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design5{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design5:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design5 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design6{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design6:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design6 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#polo{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design7{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design7:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design7 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design8{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design8:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design8 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design9{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design9:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design9 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+#hoodie{
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+.design10{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.design10:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design10 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design11{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 300px ;
+    margin-top: -304px;
+}
+
+.design11:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design11 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+.design12{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 600px ;
+    margin-top: -304px;
+}
+
+.design12:hover{
+    background-color: rgba(197, 196, 196, 0.6);
+    transition: .5s;
+}
+
+.design12 img:hover{
+    transform: scale(0.9);
+    transition: .5s;
+}
+
